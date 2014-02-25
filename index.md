@@ -4,7 +4,9 @@ title: SSD Distilled
 ---
 
 Welcome to Solid-State Drive Distilled.
+
 I am an SSD architect.
+
 Here I want to share my understandings of SSDs, from a programmer's perspective.
 
 # Articles #
